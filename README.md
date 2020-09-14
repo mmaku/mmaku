@@ -26,6 +26,10 @@ If you are looking for a team member for hackathon feel free to contact me, I op
 **The project(s) I am currently working on**  
 
 <a href="https://github.com/mmaku/Kaggle_conways_game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaku&repo=Kaggle_conways_game&theme=dracula" />
+</a>
+&nbsp
+<a href="https://github.com/mmaku/nn_scratch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaku&repo=nn_scratch&theme=dracula" />
 </a>
 
