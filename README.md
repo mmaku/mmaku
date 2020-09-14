@@ -23,7 +23,16 @@ I am proficient in R and Python, having over 7 years academic experience in the 
 
 If you are looking for a team member for hackathon feel free to contact me, I open for such opportunities. I really enjoyed them in the past (with great achievements, too).
 
-**The software I am using**  
+**The project(s) I am currently working on**  
+
+<a href="https://github.com/mmaku/Kaggle_conways_game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaku&repo=nn_scratch&theme=dracula" />
+</a>
+
+<br />
+<br />
+
+**The software I use**  
 
 <a href="https://rstudio.com/">
   <img align="center" alt="RStudio" width="150px" src="https://raw.githubusercontent.com/mmaku/mmaku/master/graphics/rstudio.svg" />
@@ -35,13 +44,4 @@ If you are looking for a team member for hackathon feel free to contact me, I op
 &nbsp
 <a href="https://notepad-plus-plus.org/">
   <img align="center" alt="Notepad++" width="150px" src="https://raw.githubusercontent.com/mmaku/mmaku/master/graphics/npp.svg" />
-</a>
-
-<br />
-<br />
-
-**The project(s) I am currently working on**  
-
-<a href="https://github.com/mmaku/Kaggle_conways_game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaku&repo=nn_scratch&theme=dracula" />
 </a>
