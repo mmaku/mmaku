@@ -1,6 +1,6 @@
-<a href="https://github.com/mmaku/nn_scratch">
+<!-- <a href="https://github.com/mmaku/nn_scratch">
   <img align="center" src="https://raw.githubusercontent.com/mmaku/mmaku/master/graphics/dino.gif" />
-</a>
+</a> -->
 
 ### Hi there, I'm Michał!
 
